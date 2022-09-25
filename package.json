@@ -1,8 +1,8 @@
 {
-	"name": "react-native-template",
+	"name": "react-native-component-library-with-storybook-template",
 	"version": "0.0.1",
-	"description": "React native template",
-	"repository": "git@github.com:daboigbae/react-native-template",
+	"description": "React native component library with storybook template",
+	"repository": "git@github.com:daboigbae/react-native-component-library-with-storybook-template",
 	"author": "gbae <ghigared@gmail.com>",
 	"license": "MIT"
 }

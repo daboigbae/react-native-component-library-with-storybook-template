@@ -1,0 +1,43 @@
+{
+  "name": "projectname",
+  "version": "1.0.0",
+  "main": "node_modules/expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web", 
+	"storybook": "start-storybook -p 7007",
+    "build-storybook": "build-storybook"
+  },
+  "dependencies": {
+	"@react-native-async-storage/async-storage": "^1.17.10",
+    "expo": "~46.0.9",
+    "expo-status-bar": "~1.4.0",
+    "react": "18.0.0",
+    "react-dom": "18.0.0",
+    "react-native": "0.69.5",
+    "react-native-web": "~0.18.7"
+  },
+  "devDependencies": {
+	"@babel/core": "^7.12.9",
+    "@storybook/addon-actions": "^5.3",
+    "@storybook/addon-knobs": "^5.3",
+    "@storybook/addon-links": "^5.3",
+    "@storybook/addon-ondevice-actions": "^5.3.23",
+    "@storybook/addon-ondevice-knobs": "^5.3.26",
+    "@storybook/react-native": "^5.3.25",
+    "@storybook/react-native-server": "^5.3.23",
+    "@tsconfig/recommended": "^1.0.1",
+    "@types/react": "~18.0.14",
+    "@types/react-native": "~0.69.1",
+    "babel-loader": "^8.2.5",
+    "rollup": "^2.79.1",
+    "rollup-plugin-dts": "^4.2.2",
+    "rollup-plugin-peer-deps-external": "^2.2.4",
+    "rollup-plugin-postcss": "^4.0.2",
+    "rollup-plugin-terser": "^7.0.2",
+    "typescript": "~4.3.5"
+  },
+  "private": true
+}
