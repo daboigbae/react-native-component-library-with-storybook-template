@@ -6,6 +6,8 @@ Run this command to create a new react-native project using the template
 
 ** Make sure to replace $YourAppName with the name you want to give your project
 
+![demo image](https://github.com/daboigbae/react-native-component-library-with-storybook-template/blob/main/screenshot.png)
+
 ### Running Project🏃‍♀️ 🏃‍♀️ 🏃‍♀️ 🏃‍♀️ 🏃‍♀️ 
 ##### iOS
 Take the following steps to open the storybook locally on iOS
